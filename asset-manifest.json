@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shemxy/travel-list-app-starter/static/css/main.900a66e4.css",
-    "main.js": "/shemxy/travel-list-app-starter/static/js/main.d567dbf3.js",
+    "main.js": "/shemxy/travel-list-app-starter/static/js/main.8b0f27b1.js",
     "index.html": "/shemxy/travel-list-app-starter/index.html",
     "main.900a66e4.css.map": "/shemxy/travel-list-app-starter/static/css/main.900a66e4.css.map",
-    "main.d567dbf3.js.map": "/shemxy/travel-list-app-starter/static/js/main.d567dbf3.js.map"
+    "main.8b0f27b1.js.map": "/shemxy/travel-list-app-starter/static/js/main.8b0f27b1.js.map"
   },
   "entrypoints": [
     "static/css/main.900a66e4.css",
-    "static/js/main.d567dbf3.js"
+    "static/js/main.8b0f27b1.js"
   ]
 }
