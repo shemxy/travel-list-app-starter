@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shemxy/travel-list-app-starter/static/css/main.900a66e4.css",
+    "main.js": "/shemxy/travel-list-app-starter/static/js/main.20072c28.js",
+    "index.html": "/shemxy/travel-list-app-starter/index.html",
+    "main.900a66e4.css.map": "/shemxy/travel-list-app-starter/static/css/main.900a66e4.css.map",
+    "main.20072c28.js.map": "/shemxy/travel-list-app-starter/static/js/main.20072c28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.900a66e4.css",
+    "static/js/main.20072c28.js"
+  ]
+}
